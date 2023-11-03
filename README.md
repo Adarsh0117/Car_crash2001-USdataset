@@ -25,5 +25,6 @@ To run the analysis and explore the data, you'll need the following libraries an
 -Matplotlib
 
 Contributing
-Contributions to this project are welcome! If you have any insights, additional analysis, or suggestions, feel free to create a pull request or open an issue.
+
+-Contributions to this project are welcome! If you have any insights, additional analysis, or suggestions, feel free to create a pull request or open an issue.
 
