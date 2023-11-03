@@ -7,15 +7,21 @@ Analysis
 In this project, we perform various data analysis tasks, such as:
 
 -Exploratory Data Analysis (EDA) to gain initial insights into the dataset.
+
 -Data cleaning and preprocessing to ensure data quality.
+
 -Visualization of key patterns.
+
 -Descriptive statistics to summarize important features of car crashes.
 
 
 Installation
 To run the analysis and explore the data, you'll need the following libraries and tools:
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
 
 Contributing
